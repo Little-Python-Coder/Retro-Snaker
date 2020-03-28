@@ -1,6 +1,8 @@
 # Retro-Snaker
 
-Why is the previous library gone,Because the management is too difficult, there are two libraries
+Why is the previous library gone,Because the management is too difficult, there are two libraries<br>
+---
+为啥我不更新|Some-Python-protect,管理太难,所i分两个库<br>
 ---
 ## 2020.3.28 Create the library and add some Protect<br>
 ## Python Version:3.8.2 IDE:PyCharm 2019.3.3<br>
