@@ -8,4 +8,5 @@ Snake has released the official version ！<br>
 Version 1.0<br>
 Official version Repository needed：Use pygame 1.9<br>
 DeBug Version Repository needed:Use pygame 1.9 and easygui 0.98.1<br>
+## Now I will gona to Take a shit.（现在,我哟去拉屎了)
 
