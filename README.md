@@ -11,5 +11,5 @@ Version 1.0<br>
 Official version Repository needed：Use pygame 1.9<br>
 DeBug Version Repository needed:Use pygame 1.9 and easygui 0.98.1<br>
 ## DeBug的音乐会高调许多(Sans曾今说过：你个肮脏的黑客！！！）
-## Now I will gona to Take a shit.（现在,我去拉屎了)
+## Now I will gona to Take a [数据删除].（现在,我去[数据删除]了)
 
